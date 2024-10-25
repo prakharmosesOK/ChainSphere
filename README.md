@@ -101,6 +101,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries or support, please reach out to [Adnan](mailto:rizviadnan72@gmail.com), [Anish](mailto:your-email@example.com), and [Prakhar](mailto:your-email@example.com)
+For any inquiries or support, please reach out to [Prakhar](mailto:your-email@example.com), [Anish](mailto:your-email@example.com) and [Adnan](mailto:rizviadnan72@gmail.com).
 
 ---
